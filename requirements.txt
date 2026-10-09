@@ -1,0 +1,5 @@
+# First local audio-to-MIDI experiment (Python 3.11)
+basic-pitch==0.4.0
+librosa==0.11.0
+pretty-midi==0.2.11.post0
+soundfile==0.14.0
